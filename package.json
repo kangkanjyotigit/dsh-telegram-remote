@@ -1,0 +1,24 @@
+{
+  "name": "dsh-telegram-remote",
+  "version": "0.1.0",
+  "description": "Remote control + full state visibility for the DeepSeek Harness over Telegram Bot API (long polling, no external services).",
+  "type": "module",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "keywords": [
+    "deepseek",
+    "dsh",
+    "telegram",
+    "bot",
+    "remote-control",
+    "cordis",
+    "plugin"
+  ],
+  "files": [
+    "lib",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=22"
+  }
+}
